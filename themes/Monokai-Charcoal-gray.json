@@ -365,7 +365,7 @@
         "checkbox.border": "#8f8f8f75",
         "quickInput.background": "#000000",
         "list.activeSelectionBackground": "#8f8f8f75",
-        "list.inactiveSelectionBackground": "#8f8f8f15",
+        "list.inactiveSelectionBackground": "#8f8f8f40",
         "list.hoverBackground": "#8f8f8f75",
         "list.inactiveFocusOutline": "#8f8f8f",
         "gitlens.trailingLineBackgroundColor": "#000000",
